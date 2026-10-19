@@ -18,8 +18,8 @@
 |---|---|---|
 | Dr. Jean Duhamel | Professor, Dept. of Chemistry；Director, Institute for Polymer Research。Fall 2026 MNS 322 任课老师（依据是 Lin 的邮件；Schedule of Classes 没能直接核对） | jduhamel@uwaterloo.ca；519-888-4567 x35916；C2 169（化学系目录写 C2 169，IPR 目录写 C2 163，两处不一致） |
 | Dr. Yangju Lin | Assistant Professor (Polymer Chemistry)。Winter 2026 任课老师，INC 是他批的，最后的成绩也要他那边处理 | yangju.lin@uwaterloo.ca；C2 163 |
-| Lauren DiLoreto | 化学系研究生，导师 Y. Lin。Lin 7 月的邮件抄送了她，大概率是 Winter MNS 322 的 TA（这是推断，没找到写明她是 TA 的来源） | ldiloret@uwaterloo.ca |
-| Dr. Rick Marta | Associate Professor (Teaching Stream)，MNS Undergraduate Advisor（化学系和物理天文系共用） | PHY 253；搜索结果里没有他的邮箱，去他的系主页查，不要猜 |
+| Lauren DiLoreto | 化学系研究生，导师 Y. Lin。Lin 7 月的邮件抄送了 Lauren，大概率是 Winter MNS 322 的 TA（这是推断，没找到写明 Lauren 是 TA 的来源） | ldiloret@uwaterloo.ca |
+| Dr. Rick Marta | Associate Professor (Teaching Stream)，MNS Undergraduate Advisor（化学系和物理天文系共用） | PHY 253；搜索结果里没有 Marta 的邮箱，去 Marta 的系主页查，不要猜 |
 
 升级路径：两位老师 5 个工作日没回 → 在原线程发 follow-up（§5）；如果 INC 状态、期限或 Quest 记录有问题 → 找 Rick Marta 或 Science Undergraduate Office。
 
@@ -101,7 +101,7 @@ Student ID: [________]
 - [ ] 确认那门课是 Winter 2026 而不是 Winter 2025
 
 发之后：
-- [ ] 拿到考试日期后，和 MNS 321 及其他课的期末对一遍。你不在 Fall MNS 322 的 classlist 上，Quest 和 RO 的冲突检测都发现不了撞车，只能自己查。撞了就马上告诉 Duhamel，可以请他在 RO 的 make-up session 里给你登记（§3 第 5 条）
+- [ ] 拿到考试日期后，和 MNS 321 及其他课的期末对一遍。你不在 Fall MNS 322 的 classlist 上，Quest 和 RO 的冲突检测都发现不了撞车，只能自己查。撞了就马上告诉 Duhamel，可以请 Duhamel 在 RO 的 make-up session 里给你登记（§3 第 5 条）
 - [ ] 12-10 至 12-23 不要安排离开 Waterloo
 - [ ] 如果术后还需要考试便利（加时、特殊座椅等），尽早联系 AccessAbility Services
 - [ ] 考试范围确定后，把讲义和笔记放进本仓库的 `slides/` 和 `notes/`，照 MNS321 仓库的做法复习

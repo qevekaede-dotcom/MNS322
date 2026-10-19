@@ -11,8 +11,8 @@
 ## 联系人
 - Dr. Jean Duhamel（Fall 2026 任课）：jduhamel@uwaterloo.ca，x35916，C2 169
 - Dr. Yangju Lin（Winter 2026 任课，INC 是他批的）：yangju.lin@uwaterloo.ca，C2 163
-- Lauren DiLoreto（Lin 的研究生，Lin 邮件抄送了她，大概率是 TA）：ldiloret@uwaterloo.ca
-- Dr. Rick Marta（MNS Undergraduate Advisor，PHY 253，邮箱未查到）：出问题时找他或 Science Undergraduate Office
+- Lauren DiLoreto（Lin 的研究生，Lin 邮件抄送了 Lauren，大概率是 TA）：ldiloret@uwaterloo.ca
+- Dr. Rick Marta（MNS Undergraduate Advisor，PHY 253，邮箱未查到）：出问题时找 Marta 或 Science Undergraduate Office
 - 详细信息、出处、规定和邮件草稿都在 `notes/deferred-final.md`
 
 ## 用户偏好
